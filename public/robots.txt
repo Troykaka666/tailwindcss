@@ -1,0 +1,3 @@
+Sitemap: http://starter-project.test/sitemap.xml
+User-agent: *
+Disallow:
