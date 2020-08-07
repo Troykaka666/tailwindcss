@@ -48,7 +48,6 @@ class NovaServiceProvider extends NovaApplicationServiceProvider
                 'mlawrence@socialnetworkmd.com',
                 'cassandra@socialnetworkmd.com',
                 'hailey@socialnetworkmd.com',
-                'rebecca@socialnetworkmd.com',
                 'hdolan@socialnetworkmd.com',
                 'ryan@socialnetworkmd.com'
             ]);
