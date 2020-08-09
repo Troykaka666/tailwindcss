@@ -19,9 +19,9 @@
 </head>
 <body>
 
-      @include('partials.header')
+      {{-- @include('partials.header') --}}
           @yield('content')
-      @include('partials.footer')
+      {{-- @include('partials.footer') --}}
 
     @include('googletagmanager::body')
     {{-- Scripts --}}
