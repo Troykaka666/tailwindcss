@@ -3,6 +3,7 @@
 @section('content')
 
 
-<h1>homepage</h1>
-
+<div class="bg-blue-700">
+ <h1>hello world</h1>
+</div>
 @endsection
